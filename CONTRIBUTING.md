@@ -38,5 +38,4 @@ Thank you for contributing to Task Manager! Your help makes this project better.
 
 Happy coding!   
 
-Replace placeholders like `your-feature-name` and customize the guidelines to fit your project's specific needs. This template provides a general structure for contributors to follow when submitting changes to your repository.
 
