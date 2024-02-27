@@ -10,9 +10,11 @@ Welcome to Task Manager! We appreciate your interest in contributing. Before you
    ```bash
    git checkout -b feature/your-feature-name
 1. Make your changes and commit them:
-   git commit -m "Add your commit message here"
+   ```bash
+    git commit -m "Add your commit message here"
 2. Push the changes to your forked repository:
-   git push origin feature/your-feature-name
+   ```bash
+    git push origin feature/your-feature-name
 3. Open a pull request on the main repository.
 Code Style
 Follow the PSR-12 coding style.
